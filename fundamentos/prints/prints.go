@@ -22,4 +22,5 @@ func main() {
 	c := false
 	d := "opa"
 	fmt.Printf("\n%d %f %.1f %t %s", a, b, b, c, d)
+	fmt.Printf("\n%v %v %v %s", a, b, c, d)
 }
